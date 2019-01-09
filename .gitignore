@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+venv
+db.sqlite3
+.DS_Store
+
+
+/Users/kebi/PycharmProjects/untitled2/blog/models.py
